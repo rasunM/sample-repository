@@ -1,2 +1,2 @@
-def returnNumbers():
-    return "This is the msg"
+def myApp():
+    return "Welcome to the my app"
